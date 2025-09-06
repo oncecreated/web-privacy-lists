@@ -1,0 +1,10 @@
+{
+    "remoteList": "RESTRICTED_OPENER_DOMAINS",
+    "remoteListVersion": "v1",
+    "remoteListPlatform": "ALL",
+    "responseType": "FULL_LIST",
+    "additions": [
+        "example.invalid 1"
+    ],
+    "nextUpdateDuration": "10860"
+}

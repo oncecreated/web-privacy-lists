@@ -105,6 +105,7 @@
         "bttrack.com;Bidtellect;Bidtellect, Inc;1",
         "bugly.qq.com;Tencent;Tencent Holdings Ltd.;2",
         "c.go-mpulse.net;Akamai;Akamai Technologies;2",
+        "c2ccf01b7eb4490db8463b09cca589da.com;;;2",
         "c3tag.com;C3 Metrics;C3 Metrics, Inc.;1",
         "captcha.fenqile.com;Lexin Fintech Holdings;Lexin Fintech Holdings Ltd.;2",
         "captcha.qq.com;Tencent;Tencent Holdings Ltd.;2",
@@ -632,5 +633,5 @@
         "zip-qc.xhscdn.com;;;2",
         "zopim.com;Zendesk;Zendesk, Inc.;1"
     ],
-    "nextUpdateDuration": "10800"
+    "nextUpdateDuration": "10980"
 }
